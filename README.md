@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ajramos-mcp-gsuite-enhanced-badge.png)](https://mseep.ai/app/ajramos-mcp-gsuite-enhanced)
+
 # mcp-gsuite-enhanced
 
 **Comprehensive MCP server for Google Workspace with complete Gmail API coverage and advanced email management**
